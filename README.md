@@ -1,10 +1,10 @@
 # Vault-Tec Mission Archive
 
-Vault-Tec Mission Archive is a Fallout-inspired Java web application built with Jakarta Servlets, JSP, Hibernate, and MySQL. The application began as a basic task archive and was expanded into a themed mission management system with mission categories, priority levels, status updates, dashboard counts, structured logging, load testing, and a health check endpoint.
+Vault-Tec Mission Archive is a Fallout-inspired Java web application built with Jakarta Servlets, JSP, Hibernate, and MySQL. The application began as a basic task archive and was expanded into a themed mission management system with mission categories, priority levels, status updates, dashboard counts, structured logging, load testing, monitoring, and a health check endpoint.
 
 ## Project Purpose
 
-This project is to show a more production-ish ready software development workflow. The app includes features that support troubleshooting, testing, monitoring, and incident response.
+This project demonstrates a more production-ready software development workflow. The application includes features that support troubleshooting, testing, monitoring, and incident response.
 
 ## Technologies Used
 
@@ -16,6 +16,8 @@ This project is to show a more production-ish ready software development workflo
 - Apache Tomcat
 - Maven
 - Apache JMeter
+- Datadog
+- ngrok
 - GitHub
 
 ## Application Features
